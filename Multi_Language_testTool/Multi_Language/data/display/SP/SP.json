@@ -1,0 +1,7 @@
+﻿{
+    "invalidURLMessageStartWithHTTP": "Ingrese una URL segura que empiece con “https://”. De lo contrario, el acceso a un sitio web no seguro puede poner al usuario en riesgo.",
+    "placeholder": "Empiece con https://",
+    "sub2": "Mi configuración inteligente",
+    "sub7": "Configuración inteligente",
+    "autoClose": "¿Sabía usted? La característica “Mejora del rendimiento” le puede ayudar a aumentar la velocidad de carga de juegos. Pruébelo ahora en Configuración avanzada."
+}

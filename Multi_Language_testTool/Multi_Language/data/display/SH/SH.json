@@ -1,0 +1,7 @@
+﻿{
+    "invalidURLMessageStartWithHTTP": "Unesite bezbednu URL adresu koja počinje sa 'https://'. U suprotnom, pristup nebezbednoj veb lokaciji može vas dovesti u opasnost.",
+    "placeholder": "Počnite sa https://",
+    "sub2": "Moje pametne postavke",
+    "sub7": "Pametne postavke",
+    "autoClose": "Da li znate? Pomoću funkcije „Poboljšavanje performansi“ možete da ubrzate učitavanje igara. Isprobajte je odmah u naprednim postavkama."
+}

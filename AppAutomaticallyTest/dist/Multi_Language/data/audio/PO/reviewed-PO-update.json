@@ -1,0 +1,6 @@
+﻿{
+    "batteryNightChargeMode": {
+                        "title": "Modo de carregamento de bateria durante a noite",
+                        "description": "Para reduzir a degradação da bateria, este dispositivo estuda o seu padrão de carregamento diário para que seja possível esperar para acabar de carregar acima de 80% durante a noite. A bateria estará então totalmente carregada quando abrir o seu computador de manhã.<br>Isto otimiza o desempenho e a vida útil da bateria, reduzindo o tempo em que a bateria está totalmente carregada com o portátil ligado à corrente durante a noite, evitando o sobreaquecimento e inchaço da bateria." 
+                    }
+}

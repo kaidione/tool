@@ -1,0 +1,45 @@
+Wechat:
+  wx_page:
+    wx_xpath: //*[@text="微信"]
+    search_button: com.tencent.mm:id/gsl
+    cancel_button: com.tencent.mm:id/apy
+    search_friend: com.tencent.mm:id/cd7
+    click_search_result: com.tencent.mm:id/kpm
+    edit_message: com.tencent.mm:id/b4a
+    send_button: com.tencent.mm:id/b8k
+    add_button: com.tencent.mm:id/grs
+    chat_window_top_xpath: //*[@resource-id="com.tencent.mm:id/gkp"]/android.widget.LinearLayout[1]
+    more: com.tencent.mm:id/by3
+    top_toggle_xpath: //*[@resource-id="android:id/list"]/android.widget.LinearLayout[4]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]
+    back_wx_button: com.tencent.mm:id/yn
+    back_more_button: com.tencent.mm:id/g1
+  connect_page:
+    connect_xpath: //*[@text="通讯录"]
+    new_firend: com.tencent.mm:id/knx
+    only_chat_friend_text: //*[@text="仅聊天的朋友"]
+    multi-party_chat: //*[@text="群聊"]
+    label: //*[@text="标签"]
+    official_accounts: com.tencent.mm:id/aev
+    friend_picture: com.tencent.mm:id/iwa
+    update_name: com.tencent.mm:id/iwg
+    update_name_text: com.tencent.mm:id/bof
+    update_name_text_editing: com.tencent.mm:id/bo5
+    nike: com.tencent.mm:id/bq1
+  find_page:
+    find_xpath: //*[@text="发现"]
+    circle_of_friend: com.tencent.mm:id/kp3
+    camera_button: com.tencent.mm:id/eo
+    keep_tap_camera_button:
+      start_x: 0.9
+      start_y: 0.06
+      end_x: 0.95
+      end_y: 0.07
+      duration: 3000
+    edit_text_message: com.tencent.mm:id/jsy
+    send_editAfter_button: com.tencent.mm:id/en
+    scan_QR_code_xpath: //*[@text="扫一扫"]
+  mine_page:
+    mine_xpath: //*[@text="我"]
+    settings: //*[@text="设置"]
+    personal_massage: com.tencent.mm:id/yj
+    collect_text: //*[@text="收藏"]

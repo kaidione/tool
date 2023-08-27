@@ -1,0 +1,6 @@
+﻿{
+    "batteryNightChargeMode": {
+                        "title": "Nachtmodus voor het opladen van de batterij",
+                        "description": "Om veroudering van de batterij te vertragen, analyseert dit apparaat uw dagelijkse oplaadpatroon, zodat het opladen boven de 80% tot 's nachts kan wachten. Op die manier is de batterij volledig opgeladen als u uw computer 's ochtends opent.<br>Dit optimaliseert de prestaties en levensduur van de batterij door de tijd te reduceren dat de batterij volledig is opgeladen terwijl de laptop op het stopcontact is aangesloten, waardoor oververhitting en overbelasting van de batterij worden voorkomen." 
+                    }
+}

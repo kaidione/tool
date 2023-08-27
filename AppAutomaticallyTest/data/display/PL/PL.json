@@ -1,0 +1,7 @@
+﻿{
+    "invalidURLMessageStartWithHTTP": "Wprowadź bezpieczny adres URL, który zaczyna się od „https://”. W przeciwnym razie dostęp do niezabezpieczonej witryny może stanowić zagrożenie.",
+    "placeholder": "Zacznij od https://",
+    "sub2": "Moje inteligentne ustawienia",
+    "sub7": "Inteligentne ustawienia",
+    "autoClose": "Czy wiesz? Funkcja „Wspomaganie wydajności” pozwala przyspieszyć ładowanie gier. Wypróbuj teraz w Ustawieniach zaawansowanych."
+}

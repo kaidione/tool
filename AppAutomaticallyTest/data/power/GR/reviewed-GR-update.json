@@ -1,0 +1,6 @@
+﻿{
+    "batteryNightChargeMode": {
+                        "title": "Akku über Nacht laden",
+                        "description": "Um die Akkualterung zu reduzieren, erfasst diese Einheit Ihr tägliches Ladeverhalten und lädt den Akku tagsüber nur bis 80 % und nachts vollständig auf. Wenn Sie den Computer am nächsten Morgen starten, ist der Akku voll aufgeladen.<br>Indem die Zeit des angeschlossenen Laptops mit vollständig geladenem Akku über Nacht reduziert wird, werden Akkuleistung und Lebensdauer optimiert und Überhitzung und Anschwellen des Akkus verhindert." 
+                    }
+}

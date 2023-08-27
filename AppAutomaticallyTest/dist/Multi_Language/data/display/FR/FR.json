@@ -1,0 +1,7 @@
+﻿{
+    "invalidURLMessageStartWithHTTP": "Veuillez entrer une URL sécurisée qui commence par 'https://'. Sinon, l'accès à un site Web non sécurisé peut vous mettre en danger.",
+    "placeholder": "Veuillez commencer en saisissant ou https://",
+    "sub2": "Mes paramètres intelligents",
+    "sub7": "Paramètres intelligents",
+    "autoClose": "Le saviez-vous ? La fonction \"Amélioration des performances\" peut vous aider à réduire les temps de chargement des jeux. Essayez-la maintenant dans les Paramètres avancés."
+}

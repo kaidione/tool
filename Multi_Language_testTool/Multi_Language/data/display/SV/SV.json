@@ -1,0 +1,7 @@
+﻿{
+    "invalidURLMessageStartWithHTTP": "Ange en säker webbadress som inleds med https://. Annars kan du bli utsatt för risk när du öppnar en osäker webbplats.",
+    "placeholder": "Börja med https://",
+    "sub2": "Mina smarta inställningar",
+    "sub7": "Smarta inställningar",
+    "autoClose": "Visste du detta? Med funktionen Prestandahöjning kan du påskynda inläsningen av spel. Testa det nu i Avancerade inställningar."
+}

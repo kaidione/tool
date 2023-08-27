@@ -1,0 +1,1 @@
+[{"uid":"5db1370756311886","name":"test_SC_Power[target_element1]","time":{"start":1676690046647,"stop":1676690207777,"duration":161130},"status":"failed","severity":"normal"},{"uid":"3419524ebde7edf7","name":"test_SC_Power[target_element0]","time":{"start":1676689719193,"stop":1676689875722,"duration":156529},"status":"failed","severity":"normal"}]

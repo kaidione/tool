@@ -1,0 +1,6 @@
+﻿{
+    "batteryNightChargeMode": {
+                        "title": "Éjszakai akkumulátortöltési mód",
+                        "description": "Az akkumulátor öregedésének mérséklése érdekében az eszköz vizsgálja a napi töltési mintát, hogy megvárja az éjszaka végét a 80%-os töltés túllépésével. Ezután az akkumulátor teljesen feltöltődik, amikor reggel kinyitja a számítógépet.<br>Ez optimalizálja az akkumulátor teljesítményét és élettartamát azáltal, hogy csökkenti az akkumulátor teljes feltöltésének idejét, amikor a laptop egy éjszakán át csatlakoztatva van a hálózathoz, megelőzve az akkumulátor túlmelegedését és duzzadását." 
+                    }
+}

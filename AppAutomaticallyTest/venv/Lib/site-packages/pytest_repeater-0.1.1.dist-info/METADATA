@@ -1,0 +1,103 @@
+Metadata-Version: 2.0
+Name: pytest-repeater
+Version: 0.1.1
+Summary: py.test plugin for repeating single test multiple times.
+Home-page: https://github.com/ClearcodeHQ/pytest-repeater
+Author: The A Room
+Author-email: thearoom@clearcode.cc
+License: GNU Lesser General Public License v3 (LGPLv3)
+Description-Content-Type: UNKNOWN
+Keywords: python py.test
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Testing
+Requires-Dist: pytest
+Provides-Extra: tests
+Requires-Dist: pytest-cov (==2.5.1); extra == 'tests'
+
+pytest_repeater
+===============
+
+.. image:: https://pypip.in/v/pytest_repeater/badge.png
+    :target: https://pypi.python.org/pypi/pytest_repeater/
+    :alt: Latest PyPI version
+
+.. image:: https://pypip.in/d/pytest_repeater/badge.png
+    :target: https://pypi.python.org/pypi/pytest_repeater/
+    :alt: Number of PyPI downloads
+
+.. image:: https://pypip.in/wheel/pytest_repeater/badge.png
+    :target: https://pypi.python.org/pypi/pytest_repeater/
+    :alt: Wheel Status
+
+.. image:: https://pypip.in/egg/pytest_repeater/badge.png
+    :target: https://pypi.python.org/pypi/pytest_repeater/
+    :alt: Egg Status
+
+.. image:: https://pypip.in/license/pytest_repeater/badge.png
+    :target: https://pypi.python.org/pypi/pytest_repeater/
+    :alt: License
+
+
+.. warning::
+
+    This pytest plugin's development, has been stopped.
+    Please use `pytest-repeat <https://pypi.python.org/pypi/pytest_repeat/>`_ instead.
+
+
+History
+-------
+
+This package was created based on `thread from StackOverflow`_ about repeating py.test tests.
+
+.. _thread from StackOverflow: http://stackoverflow.com/questions/21764473/how-can-i-repeat-each-test-multiple-times-in-a-py-test-run
+
+
+Use case
+--------
+
+Track down heisenbug in **foo_test** by running it 50 times::
+
+    py.test -k foo_test --repeat 50
+
+
+Package resources
+-----------------
+
+* Bug tracker: https://github.com/ClearcodeHQ/pytest-repeater/issues
+
+
+
+Travis-ci
+---------
+
+After creating package on github, move to tracis-ci.org, and turn on ci builds for given package.
+
+
+CHANGELOG
+=========
+
+0.1.1
+-------
+
+- pacakge deprecation
+
+0.1.0
+-------
+
+- base code and tests
+
+

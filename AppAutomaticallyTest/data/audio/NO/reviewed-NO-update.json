@@ -1,0 +1,6 @@
+﻿{
+    "batteryNightChargeMode": {
+                        "title": "Modus for batterilading over natten",
+                        "description": "For å redusere batteriets aldring følger denne enheten med på det daglige lademønsteret ditt for å vente til nattetid med å fullføre lading over 80 %. Da er batteriet fulladet når du åpner datamaskinen neste morgen.<br>Dette optimaliserer batteriets ytelse og levetid ved å redusere tiden batteriet er fulladet med PC-en koblet til nettstrøm over natten. Slik forebygges overoppheting av batteriet." 
+                    }
+}

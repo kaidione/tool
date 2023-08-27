@@ -1,0 +1,7 @@
+﻿{
+    "invalidURLMessageStartWithHTTP": "Zadajte zabezpečenú URL, ktorá začína reťazcom „https://“. V opačnom prípade vás prístup na nezabezpečenú webovú stránku môže vystaviť riziku.",
+    "placeholder": "Začnite s https://",
+    "sub2": "Moje inteligentné nastavenia",
+    "sub7": "Inteligentné nastavenia",
+    "autoClose": "Vedeli ste to? Funkcia „Zosilnenie výkonu“ vám môže pomôcť vylepšiť rýchlosť načítavania hier. Vyskúšajte to teraz v rozšírených nastaveniach."
+}

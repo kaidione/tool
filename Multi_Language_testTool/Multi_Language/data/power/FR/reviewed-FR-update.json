@@ -1,0 +1,6 @@
+﻿{
+    "batteryNightChargeMode": {
+                        "title": "Mode de chargement de la batterie de nuit",
+                        "description": "Pour réduire le vieillissement de la batterie, ce périphérique étudie votre modèle de chargement quotidien afin d'assurer la fin du chargement au-delà de 80 % pendant la nuit. De fait, votre ordinateur sera complètement chargé à votre réveil.<br>Cela permet d'éviter la surchauffe et le gonflement de la batterie et ainsi optimiser ses performances et sa durée de vie de la batterie en réduisant la période durant laquelle votre batterie est complètement chargée lorsque votre ordinateur portable est branché." 
+                    }
+}

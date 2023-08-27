@@ -1,0 +1,7 @@
+﻿{
+    "invalidURLMessageStartWithHTTP": "请输入以“https://”开头的安全 URL。否则，访问不安全的网站可能会让您面临风险。",
+    "placeholder": "请以“https://”开头",
+    "sub2": "我的智能设置",
+    "sub7": "智能设置",
+    "autoClose": "您知道吗？“性能提升”功能可以提高游戏加载速度。立即前往高级设置进行试用。"
+}

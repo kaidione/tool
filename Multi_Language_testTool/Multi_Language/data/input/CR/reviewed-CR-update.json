@@ -1,0 +1,6 @@
+﻿{
+    "batteryNightChargeMode": {
+                        "title": "Način punjenja baterije preko noći",
+                        "description": "Radi sporijeg starenja baterije, ovaj uređaj proučava vaš dnevni obrazac punjenja kako bi mogao pričekati s dovršetkom punjenja iznad 80% preko noći. Tako će baterija, kada ujutro uključite računalo, biti potpuno napunjena.<br>To služi optimizaciji performansi i vijeka trajanja baterije jer se skraćuje vrijeme u kojem je baterija potpuno napunjena dok je prijenosno računalo uključeno preko noći, sprječavajući na taj način pregrijavanje i napuhavanje baterije." 
+                    }
+}

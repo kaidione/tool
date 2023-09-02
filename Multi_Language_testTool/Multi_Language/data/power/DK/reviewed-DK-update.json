@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Opladning af batteri om natten",
-                        "description": "For at reducere batteriets nedslidning registrerer denne enhed dit daglig opladningsmønster, så batteriet først oplades til mere end 80 % om natten. Batteriet vil derefter være fuldt opladet, når du åbner computeren om morgen.<br>Det optimerer batteriets ydeevne og levetid ved at reducere den tid, batteriet er fuldt opladet, når din bærbare computer er tilsluttet om natten. Det er med til at forhindre, at batteriet overophedes og svulmer op." 
-                    }
-}

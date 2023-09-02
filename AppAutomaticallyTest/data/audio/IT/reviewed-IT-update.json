@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Modalità di ricarica della batteria durante la notte",
-                        "description": "Per ridurre l'invecchiamento della batteria, questo dispositivo analizza la tua routine di ricarica giornaliera e interrompe la ricarica della batteria quando raggiunge l'80% per completarla durante la notte. In questo modo, quando si apre il computer al mattino, la batteria sarà completamente carica.<br>Ciò consente di ottimizzare le prestazioni e la durata della batteria riducendo il tempo di collegamento del notebook con una batteria completamente carica durante la notte, evitando il surriscaldamento e il rigonfiamento della batteria." 
-                    }
-}

@@ -1,7 +1,0 @@
-﻿{
-    "invalidURLMessageStartWithHTTP": "Syötä suojattu URL-osoite, joka alkaa \"https://\". Muussa tapauksessa suojaamattoman verkkosivuston saattaa olla riskialtista.",
-    "placeholder": "Aloita kirjoittamalla https://",
-    "sub2": "Omat älykkäät asetukset",
-    "sub7": "Älykkäät asetukset",
-    "autoClose": "Tiedätkö? \"Tehosta suorituskykyä\" -ominaisuus voi auttaa sinua nopeuttamaan pelien latausta. Kokeile sitä nyt lisäasetuksista."
-}

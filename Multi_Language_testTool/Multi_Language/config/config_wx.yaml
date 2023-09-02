@@ -1,9 +1,0 @@
-desired_capabilities:
-  platformName: Android
-  deviceName: Redmi_Note_8_Pro
-  platformVersion: "11"
-  appPackage: com.tencent.mm
-  appActivity: com.tencent.mm.ui.LauncherUI
-  automationName: UiAutomator2
-  noReset: "true"
-

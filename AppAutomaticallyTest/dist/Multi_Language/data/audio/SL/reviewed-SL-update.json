@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Način polnjenja baterije čez noč",
-                        "description": "Za podaljšanje življenjske dobe baterije ta naprava preuči vaš dnevni vzorec polnjenja, tako da lahko s polnjenjem baterije na več kot 80 % počaka do noči. Ko zjutraj odprete računalnik, bo baterija popolnoma napolnjena.<br>To optimizira zmogljivost in življenjsko dobo baterije, saj skrajša čas, ko je baterija popolnoma napolnjena, če je prenosni računalnik čez noč priključen v električno omrežje, kar preprečuje pregrevanje in nabrekanje baterije." 
-                    }
-}

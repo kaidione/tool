@@ -1,5 +1,0 @@
-desired_capabilities:
-  platformName: Windows
-#  app: C:\Users\sandy\AppData\Local\Packages\E046963F.LenovoCompanion_k1h2ywk1493x8
-#  deviceName: Sandy
-  appium:app: Root

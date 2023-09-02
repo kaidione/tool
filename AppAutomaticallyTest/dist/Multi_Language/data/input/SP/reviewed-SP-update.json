@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Modalidad de carga nocturna de la batería",
-                        "description": "Para reducir el envejecimiento de la batería, este dispositivo estudia sus patrones diarios de carga, de modo que puede esperar para completar la carga cuando tenga más de un 80% de batería durante la noche. Entonces, la batería se terminará de cargar cuando abra su equipo en la mañana.<br>Esto optimiza el rendimiento y la vida útil de la batería al reducir el tiempo que está completamente cargada con el equipo portátil enchufado durante la noche, lo que evita el sobrecalentamiento y abultamiento de la batería." 
-                    }
-}

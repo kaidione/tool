@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Modul de încărcare peste noapte a bateriei",
-                        "description": "Pentru a reduce uzura bateriei, acest dispozitiv studiază tiparul dvs. de încărcare zilnică, pentru a aștepta să finalizeze încărcarea după nivelul de 80% peste noapte. Apoi, bateria va fi complet încărcată când porniți computerul dimineață.<br>Astfel, se optimizează performanța și durata de utilizare a bateriei, reducând timpul în care bateria este complet încărcată cu laptopul conectat la priză peste noapte, prevenind supraîncălzirea și umflarea bateriei." 
-                    }
-}

@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Tryb ładowania akumulatora przez noc",
-                        "description": "Aby ograniczyć starzenie się akumulatora, to urządzenie bada Twój dzienny schemat ładowania, aby wstrzymać ładowanie w ciągu nocy od momentu, gdy poziom naładowania wyniesie około 80%. Gdy rano otworzysz komputer, akumulator będzie w pełni naładowany.<br>Takie rozwiązanie pozwala zoptymalizować wydajność i wydłużyć żywotność akumulatora, skracając czas, przez jaki akumulator jest w pełni naładowany, gdy laptop pozostaje podłączony do zasilania przez noc. Taki mechanizm zapobiega przegrzaniu akumulatora oraz jego pęcznieniu." 
-                    }
-}

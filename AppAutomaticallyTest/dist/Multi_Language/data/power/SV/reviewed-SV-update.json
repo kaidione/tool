@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Läge för batteriladdning över natten",
-                        "description": "För att minska batteriets åldrande studerar den här enheten ditt dagliga laddningsmönster för att invänta natten och då slutföra laddning som är över 80 %. Därefter är batteriet fulladdat när du startar datorn morgonen därpå.<br>Det optimerar batteriets prestanda och livslängd genom att minska tiden som batteriet är fulladdat när din bärbara dator är ansluten till nätström på natten. Det minskar risken för att batteriet överhettas eller sväller." 
-                    }
-}

@@ -1,7 +1,0 @@
-﻿{
-    "invalidURLMessageStartWithHTTP": "Kérjük, adjon meg egy biztonságos URL-t, amely „https://” előtaggal kezdődik. Ellenkező esetben egy nem biztonságos webhely elérése veszélybe sodorhatja.",
-    "placeholder": "Kezdje a következő begépelésével: https://",
-    "sub2": "Saját intelligens beállítások",
-    "sub7": "Intelligens beállítások",
-    "autoClose": "Tudta ezt? A „Teljesítményjavulás” javíthatja a játékok betöltésének sebességét. Próbálja ki most a Speciális beállításokban."
-}

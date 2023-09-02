@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Akun yölataustila",
-                        "description": "Tämä laite tutkii päivittäisiä lataustapojasi, jotta se voi viimeistellä latauksen yli 80 %:iin yöllä ja vähentää näin akun ikääntymistä. Tällöin akku on täysin latautunut, kun avaat tietokoneen aamulla.<br>Tämä optimoi akun suorituskyvyn ja käyttöajan vähentämällä aikaa, jonka akku on täysin ladattuna kannettavan ollessa kytkettynä verkkovirtaan yöllä, ja estää siten akun ylikuumenemisen ja turpoamisen." 
-                    }
-}

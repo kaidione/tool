@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Gece Saatlerinde Pil Şarjı Kipi",
-                        "description": "Bu cihaz, pilin eskime oranını azaltmak için günlük şarj düzeninizi inceler ve pili %80'in üzerinde şarj etmek için gece saatlerini bekleyebilir. Böylece, sabah bilgisayarınızı açtığınızda pil tamamen şarj olmuş olacaktır.<br>Bu, dizüstü bilgisayarınız gece boyunca takılıyken pilinizin tam olarak şarj olma süresini azaltarak pil performansını ve ömrünü en iyi duruma getirir. Ayrıca pilin aşırı ısınmasını ve şişmesini önler." 
-                    }
-}

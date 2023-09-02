@@ -1,6 +1,0 @@
-﻿{
-    "batteryNightChargeMode": {
-                        "title": "Režim nočního nabíjení baterie",
-                        "description": "Aby se snížilo stárnutí baterie, studuje toto zařízení váš denní režim nabíjení, takže může počkat, až se přes noc dobije na více než 80 %. Když potom ráno otevřete počítač, bude baterie plně nabitá.<br>Tím se optimalizuje výkon a životnost baterie tím, že se zkrátí doba, po kterou je baterie plně nabitá, když je notebook přes noc připojen k síti, a zabrání se tak přehřátí a bobtnání baterie."
-                    }
-}
